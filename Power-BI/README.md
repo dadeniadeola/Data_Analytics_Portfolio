@@ -15,3 +15,4 @@ This folder contains my Power BI dashboard, reports, and my data analysis projec
 
 ### 4. Customer and Revenue Dashboard
 ![Customer and Revenue Dashboard](4th%20cap%20proj.PNG)
+![TS Academy Power BI Dashboard](Capture%20BI%202.PNG)
