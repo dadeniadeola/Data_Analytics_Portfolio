@@ -17,6 +17,33 @@ Technical Skills
 
 Projects
 
+## My Projects
+
+### Excel Projects
+*TS Academy Excel Assignment*
+- Tool: Microsoft Excel
+- Practical Excel assignment completed during my data analytics training.
+
+### Power BI Projects
+
+*TS Academy Power BI Project*
+- Tool: Power BI
+- Dashboard development and data visualization.
+
+*TS Academy Capstone Project*
+- Tool: Power BI
+- Executive Dashboard
+- Fleet Dashboard
+- Customer and Revenue Dashboard
+- Driver and Safety Dashboard
+
+*Hospital Management & Patient Care Dashboard*
+- Tool: Power BI
+- Analysis of patients, doctors, appointments, and appointment status.
+
+### SQL
+Currently developing my SQL skills. Projects will be added as I complete them.
+
 My portfolio includes projects involving:
 
 - Hospital Management and Patient Care Analysis
